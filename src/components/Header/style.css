@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom:1rem;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 5rem;
+    background: lightcoral;
+}
+.title{
+   
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.scores{
+    margin-top: 1rem;
+}
+

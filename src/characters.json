@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Deku",
+        "image":"https://i.ytimg.com/vi/2ToElq0B9bQ/maxresdefault.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Baki",
+        "image":"https://occ-0-990-987.1.nflxso.net/art/5fc97/46f96b618a43f7d3451114e9a2de4a743065fc97.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Goku",
+        "image":"https://www.geek.com/wp-content/uploads/2017/08/Dragon-Ball-Super-Goku-625x352.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Naruto",
+        "image":"https://vignette.wikia.nocookie.net/naruto/images/0/09/Naruto_newshot.png/revision/latest?cb=20170621101134",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Saitama",
+        "image":"https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/0/07/Saitama_serious_profile.png/revision/latest?cb=20170121004535",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Mob",
+        "image":"https://vignette.wikia.nocookie.net/mob-psycho-100/images/8/8c/Mob_anime.png/revision/latest?cb=20160712054631",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Genos",
+        "image":"https://vignette.wikia.nocookie.net/onepunchman/images/6/69/Genos_profile_anime.png/revision/latest?cb=20161002155041",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Asta",
+        "image":"https://cdn.myanimelist.net/images/characters/4/338841.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Ryuk",
+        "image":"https://img1.looper.com/img/gallery/ryuk-in-netflixs-death-note-had-to-be-played-by-two-actors/intro-1503169693.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Sasuke",
+        "image":"https://vignette.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest?cb=20170716092103",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Reigen",
+        "image": "https://storage.googleapis.com/storage.comicsverse.com/uploads/2016/09/facebook-Linked_Image___Greasyunglereigen.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Dimple",
+        "image":"https://vignette.wikia.nocookie.net/mob-psycho-100/images/a/aa/Dimple_anime.png/revision/latest/scale-to-width-down/250?cb=20160725192827",
+        "clicked": false
+    }
+]
